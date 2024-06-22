@@ -1,0 +1,12 @@
+{
+  "name": "Drak_greek_theme",
+  "author": "YourCompany",
+  "dark": true,
+  "colors": {
+    "primaryRed": "#821010"
+  },
+  "editorScheme": "/theme/dark_greek_theme.xml",
+  "ui": {
+    "Button.background": "primaryRed"
+  }
+}
