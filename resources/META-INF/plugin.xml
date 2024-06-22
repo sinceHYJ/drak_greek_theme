@@ -10,7 +10,7 @@
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="heyjlix@gmail.com">drak_greek_theme</vendor>
+    <vendor email="heyjlix@gmail.com">contact me</vendor>
 
     <idea-version since-build="232" until-build="242.*"/>
 
@@ -18,7 +18,7 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    this is my dark_greek_theme
+   This plugin features a high-contrast style, with each type having its own distinct color, embodying a retro geek aesthetic.
   ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
