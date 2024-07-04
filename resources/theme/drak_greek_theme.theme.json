@@ -7,6 +7,7 @@
   },
   "editorScheme": "/theme/dark_greek_theme.xml",
   "ui": {
-    "Button.background": "primaryRed"
+      "MainWindow.Tab.background": "#000000",
+      "MainToolbar.background": "#000000"
   }
 }
